@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Office temporaires
+~$*
+*.tmp
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Données sensibles
+*.key
+*.secret
+
